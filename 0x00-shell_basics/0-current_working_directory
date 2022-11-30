@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr-xr-x 2 root root  80 Nov 30 04:55 0x00-shell_basics 
+$(ls -la . .. /boot)
